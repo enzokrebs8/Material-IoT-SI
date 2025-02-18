@@ -1,0 +1,11 @@
+ICMP - PING
+DHCP
+DNS
+192.169.10.100
+Ipv4 e Ipv6
+Cabo de par trançado paralelo (tipo A [pc + switch])
+Cabo de par trançado cross-over (tipo b [pc + pc])
+Modelo Ozzy - Camadas baixas
+Modelo OCP
+HTTP - Camadas altas (imagens, áudio, apresentação e etc)
+MTQT
