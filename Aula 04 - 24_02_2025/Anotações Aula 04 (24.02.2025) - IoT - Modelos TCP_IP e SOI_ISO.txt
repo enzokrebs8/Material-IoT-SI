@@ -1,0 +1,19 @@
+Endereço MAC = Endereço Físico
+Ipv4 = menos hosts binária e decimal
+Ipv6 = Mais hosts e notação é hexadecimal
+
+Ipv4:
+8 bits = 1 byte
+cada byte é um octeto
+máximo de cada bit é 255
+quando a rede termina com 0 é o nome da rede, exemplo: 131.107.0.0
+quando termina em 255 é endereço de broadcast
+entre 0 e 255 temos 254 possibilidades de computadores
+rede que começa com 127 é localhost
+converter decimal em binário = dividir por 2 e ir anotando os restos
+converter binário em decimal = exponenciar da direita para a esquerda (128, 64, 32, 16, 8, 4, 2, 1) e pega onde tem 1 e soma
+• Classe A: NetID= 8 bits, HostID= 24 bits
+• Classe B: NetID= 16 bits, HostID= 16 bits
+• Classe C: NetID= 24 bits, HostID= 8 bits
+
+EMBRATEL --> backbone = espinha dorsal (base de uma gama de redes)
